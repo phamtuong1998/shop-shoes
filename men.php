@@ -318,6 +318,5 @@
 	require_once('./common/footer.php');
 ?>
 
-	</body>
-</html>
+	
 

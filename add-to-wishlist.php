@@ -1,11 +1,35 @@
 <?php
 	require_once('./common/header.php');
-?>>
+?>
+			<div class="sale">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-8 offset-sm-2 text-center">
+							<div class="row">
+								<div class="owl-carousel2">
+									<div class="item">
+										<div class="col">
+											<h3><a href="#">25% off (Almost) Everything! Use Code: Summer Sale</a></h3>
+										</div>
+									</div>
+									<div class="item">
+										<div class="col">
+											<h3><a href="#">Our biggest sale yet 50% off all summer shoes</a></h3>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+
 		<div class="breadcrumbs">
 			<div class="container">
 				<div class="row">
 					<div class="col">
-						<p class="bread"><span><a href="index.html">Home</a></span> / <span>Shopping Cart</span></p>
+						<p class="bread"><span><a href="index.html">Home</a></span> / <span>My Wishlist</span></p>
 					</div>
 				</div>
 			</div>
@@ -142,42 +166,9 @@
 						</div>
 					</div>
 				</div>
-				<div class="row row-pb-lg">
-					<div class="col-md-12">
-						<div class="total-wrap">
-							<div class="row">
-								<div class="col-sm-8">
-									<form action="#">
-										<div class="row form-group">
-											<div class="col-sm-9">
-												<input type="text" name="quantity" class="form-control input-number" placeholder="Your Coupon Number...">
-											</div>
-											<div class="col-sm-3">
-												<input type="submit" value="Apply Coupon" class="btn btn-primary">
-											</div>
-										</div>
-									</form>
-								</div>
-								<div class="col-sm-4 text-center">
-									<div class="total">
-										<div class="sub">
-											<p><span>Subtotal:</span> <span>$200.00</span></p>
-											<p><span>Delivery:</span> <span>$0.00</span></p>
-											<p><span>Discount:</span> <span>$45.00</span></p>
-										</div>
-										<div class="grand-total">
-											<p><span><strong>Total:</strong></span> <span>$450.00</span></p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
 				<div class="row">
 					<div class="col-sm-8 offset-sm-2 text-center colorlib-heading colorlib-heading-sm">
-						<h2>Related Products</h2>
+						<h2>Shop more</h2>
 					</div>
 				</div>
 				<div class="row">
@@ -232,5 +223,4 @@
 		<?php
 			require_once('./common/footer.php');
 		?>
-
 
