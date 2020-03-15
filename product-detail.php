@@ -312,10 +312,6 @@
 		</div>
 
 		<?php
-			require_once('./common/header.php');
+			require_once('./common/footer.php');
 		?>
-
-
-	</body>
-</html>
 
