@@ -79,9 +79,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 		<a href="#" class="js-gotop"><i class="ion-ios-arrow-up"></i></a>
 	</div>
 	
-	<!-- jQuery -->
 	<script src="js/jquery.min.js"></script>
-   <!-- popper -->
    <script src="js/popper.min.js"></script>
    <!-- bootstrap 4.1 -->
    <script src="js/bootstrap.min.js"></script>
